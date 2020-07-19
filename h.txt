@@ -33,8 +33,6 @@ int main()
         }
 
     }
-    cout<<str0<<endl;
-    cout<<str<<endl;
     return 0;
 }
 /*
